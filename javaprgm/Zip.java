@@ -1,5 +1,5 @@
 class Zip{
-	String brand;
-	int cost;
+	boolean open;
+	boolean close;
 
 }
