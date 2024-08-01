@@ -1,0 +1,12 @@
+class Watch{
+ String brand="titan";
+ int cost;
+ String type;
+ String meterial;
+	Watch(String type,int cost){
+	System.out.println()
+	
+	}
+
+
+}
